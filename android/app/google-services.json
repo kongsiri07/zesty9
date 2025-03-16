@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808879512178",
+    "project_id": "pjmobile-f4ae4",
+    "storage_bucket": "pjmobile-f4ae4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808879512178:android:04a49acc32dfc83bf5c0eb",
+        "android_client_info": {
+          "package_name": "com.example.mobilethree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808879512178-clv42d8s7ta1nvl0j6kf7cdmgulpjs01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAktdGVaBD0EjfxWA1tFds0tysz0VLFOgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808879512178-clv42d8s7ta1nvl0j6kf7cdmgulpjs01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
